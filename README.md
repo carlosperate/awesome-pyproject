@@ -1,5 +1,7 @@
 # Awesome pyproject.toml
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Intro still needed.
 
 
