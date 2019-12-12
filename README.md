@@ -2,10 +2,14 @@
 
 Intro still needed.
 
+[File specification](https://www.python.org/dev/peps/pep-0518/#specification).
+
+
 ## Contents
 
 - [Testing](#testing)
 - [Code Analysis](#code-analysis)
+- [Packaging](#packaging)
 - [Projects discussing the use of pyproject.toml](#projects-discussing-the-use-of-pyprojecttoml)
 
 
@@ -17,6 +21,11 @@ Intro still needed.
 ## Code Analysis
 
 - [Black](https://black.readthedocs.io/en/stable/pyproject_toml.html) - The uncompromising Python code formatter.
+
+
+## Packaging
+
+- [Poetry](https://python-poetry.org/docs/pyproject/) - A tool for dependency management and packaging in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 
 
 ## Projects discussing the use of pyproject.toml
