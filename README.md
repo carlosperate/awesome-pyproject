@@ -1,8 +1,11 @@
-# Awesome pyproject.toml
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome pyproject.toml [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Intro still needed.
+
+## Contents
+
+- [Testing](#testing)
+- [Projects discussing the use of pyproject.toml](#projects-discussing-the-use-of-pyprojecttoml)
 
 
 ## Testing
