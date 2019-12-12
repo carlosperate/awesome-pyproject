@@ -5,12 +5,18 @@ Intro still needed.
 ## Contents
 
 - [Testing](#testing)
+- [Code Analysis](#code-analysis)
 - [Projects discussing the use of pyproject.toml](#projects-discussing-the-use-of-pyprojecttoml)
 
 
 ## Testing
 
 - [Tox](https://tox.readthedocs.io/en/3.14.2/example/basic.html#pyproject-toml-tox-legacy-ini) - A generic virtualenv manager to run test in different environments.
+
+
+## Code Analysis
+
+- [Black](https://black.readthedocs.io/en/stable/pyproject_toml.html) - The uncompromising Python code formatter.
 
 
 ## Projects discussing the use of pyproject.toml
