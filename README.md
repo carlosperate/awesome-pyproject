@@ -36,6 +36,7 @@ Intro still needed.
 Intro still needed. The entries link directly to the discussion.
 
 - [flake8](https://gitlab.com/pycqa/flake8/issues/428) - A python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
+- [pyenv](https://github.com/pyenv/pyenv/issues/1233) - Simple Python version management.
 - [pytest](https://github.com/pytest-dev/pytest/issues/1556) - A testing framework that makes it easy to write small tests, yet scales to support complex functional testing.
 - [setuptools](https://github.com/pypa/setuptools/issues/1688) - Easily download, build, install, upgrade, and uninstall Python packages.
 
