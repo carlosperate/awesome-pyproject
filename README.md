@@ -38,6 +38,7 @@ Intro still needed.
 Intro still needed. The entries link directly to the discussion.
 
 - [autopep8](https://github.com/hhatto/autopep8/pull/510) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
+- [Bandit](https://github.com/PyCQA/bandit/issues/550) - A tool designed to find common security issues in Python code.
 - [flake8](https://gitlab.com/pycqa/flake8/issues/428) - A python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [Mypy](https://github.com/python/mypy/issues/5205) - An optional static type checker for Python (PEP 484).
 - [nose2](https://github.com/nose-devs/nose2/issues/452) - The successor to nose. Its purpose is to extend unittest to make testing nicer and easier to understand.
