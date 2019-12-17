@@ -44,6 +44,7 @@ Intro still needed. The entries link directly to the discussion.
 - [pyenv](https://github.com/pyenv/pyenv/issues/1233) - Simple Python version management.
 - [pytest](https://github.com/pytest-dev/pytest/issues/1556) - A testing framework that makes it easy to write small tests, yet scales to support complex functional testing.
 - [setuptools](https://github.com/pypa/setuptools/issues/1688) - Easily download, build, install, upgrade, and uninstall Python packages.
+- [Vulture](https://github.com/jendrikseipp/vulture/issues/164) - Finds unused code in Python programs.
 
 
 ## License
