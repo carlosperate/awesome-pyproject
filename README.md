@@ -26,6 +26,7 @@ Intro still needed.
 
 ## Packaging
 
+- [BeeWare Briefcase](https://github.com/beeware/briefcase/pull/266) - Tools to support converting a Python project into a standalone native application.
 - [Flit](https://flit.readthedocs.io/en/stable/pyproject_toml.html) - A simple way to put Python packages and modules on PyPI.
 - [pip](https://pip.pypa.io/en/stable/reference/pip/#pep-517-and-518-support) - The package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
 - [Poetry](https://python-poetry.org/docs/pyproject/) - A tool for dependency management and packaging in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
