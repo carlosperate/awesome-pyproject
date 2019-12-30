@@ -1,9 +1,16 @@
 # Awesome pyproject.toml [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Intro still needed.
+`pyproject.toml` is a new configuration file defined in
+[PEP 518](https://www.python.org/dev/peps/pep-0518/). It is design to store
+build system requirements, but it can also store any tool configuration for your
+Python project, possibly replacing the need for `setup.cfg` or other
+tool-specific files.
 
-[File specification](https://www.python.org/dev/peps/pep-0518/#specification).
+- [PEP 518 file specification](https://www.python.org/dev/peps/pep-0518/#specification).
 
+We think `pyproject.toml` is pretty awesome, so this
+[awesome list](https://github.com/topics/awesome-list) contain projects already
+using it, or discussing its inclusion.
 
 ## Contents
 
