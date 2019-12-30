@@ -9,8 +9,12 @@ tool-specific files.
 - [PEP 518 file specification](https://www.python.org/dev/peps/pep-0518/#specification).
 
 We think `pyproject.toml` is pretty awesome, so this
-[awesome list](https://github.com/topics/awesome-list) contain projects already
+[awesome list](https://github.com/topics/awesome-list) contains projects already
 using it, or discussing its inclusion.
+
+Do you know of any other project not included here? Please
+[submit a PR](contributing.md)!
+
 
 ## Contents
 
@@ -40,9 +44,10 @@ using it, or discussing its inclusion.
 - [Poetry](https://python-poetry.org/docs/pyproject/) - A tool for dependency management and packaging in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 
 
-## Projects discussing the use of pyproject.toml
+## Projects discussing the use of `pyproject.toml`
 
-Intro still needed. The entries link directly to the discussion.
+Some project are still considering the adoption of the `pyproject.toml` file.
+These entries link directly to the project discussion.
 
 - [autopep8](https://github.com/hhatto/autopep8/pull/510) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [Bandit](https://github.com/PyCQA/bandit/issues/550) - A tool designed to find common security issues in Python code.
