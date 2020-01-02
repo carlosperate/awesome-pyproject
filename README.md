@@ -62,6 +62,7 @@ These entries link directly to the project discussion.
 - [setuptools](https://github.com/pypa/setuptools/issues/1688) - Easily download, build, install, upgrade, and uninstall Python packages.
 - [Spack](https://github.com/spack/spack/issues/6629) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [Vulture](https://github.com/jendrikseipp/vulture/issues/164) - Finds unused code in Python programs.
+- [YAPF](https://github.com/google/yapf/issues/708) - A formatter for Python files.
 
 
 ## License
