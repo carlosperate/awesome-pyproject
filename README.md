@@ -33,6 +33,7 @@ Do you know of any other project not included here? Please
 ## Code Analysis
 
 - [Black](https://black.readthedocs.io/en/stable/pyproject_toml.html) - The uncompromising Python code formatter.
+- [isort](https://timothycrosley.github.io/isort/) - A Python utility / library to sort imports alphabetically, and automatically separated into sections.
 - [Pylint](http://pylint.pycqa.org/en/latest/user_guide/run.html?highlight=pyproject#command-line-options) - A tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells.
 
 
