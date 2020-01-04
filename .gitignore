@@ -1,7 +1,7 @@
 ###########
 # Project #
 ###########
-# Nothing yet
+node_modules/*
 
 ######################
 # OS generated files #
