@@ -19,4 +19,4 @@ jobs:
       with:
         ruby-version: '2.4'
     - run: gem install awesome_bot
-    - run: awesome_bot README.md
+    - run: awesome_bot README.md --allow-redirect
