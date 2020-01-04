@@ -1,4 +1,4 @@
-# Awesome pyproject.toml [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome pyproject.toml [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Link Checker GH Action Status](https://github.com/carlosperate/awesome-pyproject/workflows/Check%20Links/badge.svg)](https://github.com/carlosperate/awesome-pyproject/actions?workflow=Check+Links)
 
 `pyproject.toml` is a new configuration file defined in
 [PEP 518](https://www.python.org/dev/peps/pep-0518/). It is design to store
