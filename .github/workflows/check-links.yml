@@ -1,0 +1,22 @@
+name: Check Links
+
+on:
+  push:
+    branches:
+    - master
+    - action
+    - actions
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.4'
+    - run: gem install awesome_bot
+    - run: awesome_bot README.md
