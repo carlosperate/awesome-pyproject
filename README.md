@@ -34,6 +34,7 @@ Do you know of any other project not included here? Please
 
 ## Code Analysis
 
+- [autopep8](https://github.com/hhatto/autopep8/blob/master/README.rst#pyproject-toml) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [Black](https://black.readthedocs.io/en/stable/pyproject_toml.html) - The uncompromising Python code formatter.
 - [isort](https://timothycrosley.github.io/isort/) - A Python utility / library to sort imports alphabetically, and automatically separated into sections.
 - [Pylint](http://pylint.pycqa.org/en/latest/user_guide/run.html?highlight=pyproject#command-line-options) - A tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells.
@@ -53,7 +54,6 @@ Do you know of any other project not included here? Please
 Some project are still considering the adoption of the `pyproject.toml` file.
 These entries link directly to the project discussion.
 
-- [autopep8](https://github.com/hhatto/autopep8/pull/510) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [Bandit](https://github.com/PyCQA/bandit/issues/550) - A tool designed to find common security issues in Python code.
 - [bumpversion](https://github.com/peritus/bumpversion/issues/192) - Version-bump your software with a single command.
   - [bump2version](https://github.com/c4urself/bump2version/issues/42) - An interim fork with the intent to merge back to the original project.
