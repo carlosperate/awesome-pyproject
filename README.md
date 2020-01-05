@@ -1,5 +1,7 @@
 # Awesome pyproject.toml [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Link Checker GH Action Status](https://github.com/carlosperate/awesome-pyproject/workflows/Check%20Links/badge.svg)](http://github.com/carlosperate/awesome-pyproject/actions?workflow=Check+Links)
 
+![logo](https://repository-images.githubusercontent.com/226840558/aff71800-2fd4-11ea-99ed-8e6a645dd5fe)
+
 `pyproject.toml` is a new configuration file defined in
 [PEP 518](https://www.python.org/dev/peps/pep-0518/). It is design to store
 build system requirements, but it can also store any tool configuration for your
