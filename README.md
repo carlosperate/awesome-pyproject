@@ -59,6 +59,7 @@ Do you know of any other project not included here? Please
 Some project are still considering the adoption of the `pyproject.toml` file.
 These entries link directly to the project discussion.
 
+- [AWS SAM](https://github.com/awslabs/aws-sam-cli/issues/1366) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM.
 - [Bandit](https://github.com/PyCQA/bandit/issues/550) - A tool designed to find common security issues in Python code.
 - [bumpversion](https://github.com/peritus/bumpversion/issues/192) - Version-bump your software with a single command.
   - [bump2version](https://github.com/c4urself/bump2version/issues/42) - An interim fork with the intent to merge back to the original project.
