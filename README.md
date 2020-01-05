@@ -21,6 +21,7 @@ Do you know of any other project not included here? Please
 ## Contents
 
 - [Testing](#testing)
+- [Code Formatting](#code-formatting)
 - [Code Analysis](#code-analysis)
 - [Packaging](#packaging)
 - [Projects discussing the use of pyproject.toml](#projects-discussing-the-use-of-pyprojecttoml)
@@ -32,11 +33,15 @@ Do you know of any other project not included here? Please
 - [Tox](https://tox.readthedocs.io/en/3.14.2/example/basic.html#pyproject-toml-tox-legacy-ini) - A generic virtualenv manager to run test in different environments.
 
 
-## Code Analysis
+## Code Formatting
 
 - [autopep8](https://github.com/hhatto/autopep8/blob/master/README.rst#pyproject-toml) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [Black](https://black.readthedocs.io/en/stable/pyproject_toml.html) - The uncompromising Python code formatter.
 - [isort](https://timothycrosley.github.io/isort/) - A Python utility / library to sort imports alphabetically, and automatically separated into sections.
+
+
+## Code Analysis
+
 - [Pylint](http://pylint.pycqa.org/en/latest/user_guide/run.html?highlight=pyproject#command-line-options) - A tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells.
 
 
