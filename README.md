@@ -24,6 +24,7 @@ Do you know of any other project not included here? Please
 - [Code Formatting](#code-formatting)
 - [Code Analysis](#code-analysis)
 - [Packaging](#packaging)
+- [Other Tools](#other-tools)
 - [Projects discussing the use of pyproject.toml](#projects-discussing-the-use-of-pyprojecttoml)
 
 
@@ -53,6 +54,10 @@ Do you know of any other project not included here? Please
 - [pip](https://pip.pypa.io/en/stable/reference/pip/#pep-517-and-518-support) - The package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
 - [Poetry](https://python-poetry.org/docs/pyproject/) - A tool for dependency management and packaging in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 
+
+## Other Tools
+
+- [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv/pull/117) - ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories.
 
 ## Projects discussing the use of `pyproject.toml`
 
