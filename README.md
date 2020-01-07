@@ -24,6 +24,7 @@ Do you know of any other project not included here? Please
 - [Code Formatting](#code-formatting)
 - [Code Analysis](#code-analysis)
 - [Packaging](#packaging)
+- [Project Templates](#project-templates)
 - [Other Tools](#other-tools)
 - [Projects discussing the use of pyproject.toml](#projects-discussing-the-use-of-pyprojecttoml)
 
@@ -53,6 +54,13 @@ Do you know of any other project not included here? Please
 - [Flit](https://flit.readthedocs.io/en/stable/pyproject_toml.html) - A simple way to put Python packages and modules on PyPI.
 - [pip](https://pip.pypa.io/en/stable/reference/pip/#pep-517-and-518-support) - The package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
 - [Poetry](https://python-poetry.org/docs/pyproject/) - A tool for dependency management and packaging in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
+
+
+## Project Templates
+
+Python project templates or project generators supporting `pyproject.toml`.
+
+- [PyScaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator with batteries included.
 
 
 ## Other Tools
