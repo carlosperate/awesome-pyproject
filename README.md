@@ -57,6 +57,7 @@ Do you know of any other project not included here? Please
 - [pip](https://pip.pypa.io/en/stable/reference/pip/#pep-517-and-518-support) - The package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
 - [Poetry](https://python-poetry.org/docs/pyproject/) - A tool for dependency management and packaging in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 - [Pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python.
+- [Maturin](https://github.com/PyO3/maturin/blob/master/Readme.md#pyprojecttoml) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages.
 
 
 ## Project Templates
