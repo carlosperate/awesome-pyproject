@@ -54,6 +54,7 @@ Do you know of any other project not included here? Please
 - [Flit](https://flit.readthedocs.io/en/stable/pyproject_toml.html) - A simple way to put Python packages and modules on PyPI.
 - [pip](https://pip.pypa.io/en/stable/reference/pip/#pep-517-and-518-support) - The package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
 - [Poetry](https://python-poetry.org/docs/pyproject/) - A tool for dependency management and packaging in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
+- [Pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python.
 
 
 ## Project Templates
@@ -66,10 +67,10 @@ Python project templates or project generators supporting `pyproject.toml`.
 
 ## Other Tools
 
+- [Commitizen](https://woile.github.io/commitizen/config/) - Create commiting rules for projects, auto bump versions and auto changelog generation.
 - [Poetrify](https://github.com/kk6/poetrify) - Convert a Pipfile (or requirements.txt) to pyproject.toml for Poetry.
 - [poetry-version](https://github.com/rominf/poetry-version) - Python library for extracting version from poetry pyproject.toml file.
 - [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv/pull/117) - ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories.
-- [Commitizen](https://woile.github.io/commitizen/config/) - Create commiting rules for projects, auto bump versions and auto changelog generation.
 
 
 ## Projects discussing the use of `pyproject.toml`
