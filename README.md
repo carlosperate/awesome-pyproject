@@ -68,6 +68,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 
 ## Other Tools
 
+- [Autohooks](https://github.com/greenbone/autohooks/blob/master/README.md#1-choosing-an-autohooks-mode) - Library for managing git hooks.
 - [Commitizen](https://woile.github.io/commitizen/config/) - Create commiting rules for projects, auto bump versions and auto changelog generation.
 - [Poetrify](https://github.com/kk6/poetrify) - Convert a Pipfile (or requirements.txt) to pyproject.toml for Poetry.
 - [poetry-version](https://github.com/rominf/poetry-version) - Python library for extracting version from poetry pyproject.toml file.
