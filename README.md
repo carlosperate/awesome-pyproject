@@ -65,6 +65,7 @@ Do you know of any other project not included here? Please
 Python project templates or project generators supporting `pyproject.toml`.
 
 - [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Cookiecutter template for a Python python library.
+- [Jace's Python Template](https://github.com/jacebrowning/template-python) - A template for new Python libraries.
 - [PyScaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator with batteries included.
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 
