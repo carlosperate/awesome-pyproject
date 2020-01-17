@@ -14,7 +14,7 @@
 - [ ] I am making an individual pull request for each suggestion
 - [ ] I have added a useful title to the commit.
 - [ ] I have added a useful title to this PR.
-- [ ] I have added the new entry to the bottom of its the category
+- [ ] I have added the new entry in alphabetical order
 - [ ] I have used the following format:
 ```
 - [Resource Title](link) - Resource short Description (2 lines or less in total)
