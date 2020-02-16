@@ -33,6 +33,7 @@ Do you know of any other project not included here? Please
 
 - [Coverage.py](https://coverage.readthedocs.io/en/latest/config.html) - Code coverage measurement for Python.
 - [Tox](https://tox.readthedocs.io/en/3.14.2/example/basic.html#pyproject-toml-tox-legacy-ini) - A generic virtualenv manager to run test in different environments.
+- [Ward](https://wardpy.com/guide/config) - A modern Python test framework designed to help you find and fix flaws faster. 
 
 
 ## Code Formatting
