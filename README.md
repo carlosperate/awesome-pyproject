@@ -103,6 +103,7 @@ These entries link directly to the project discussion.
 - [pyenv](https://github.com/pyenv/pyenv/issues/1233) - Simple Python version management.
 - [pytest](https://github.com/pytest-dev/pytest/issues/1556) - A testing framework that makes it easy to write small tests, yet scales to support complex functional testing.
 - [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark/issues/26) - A pytest fixture for benchmarking code.
+- [Python License Checker](https://github.com/dhatim/python-license-check/issues/31) - Check python packages from requirement.txt and report issues.
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer/issues/93) - A modern Python application packaging and distribution tool.
 - [pyup](https://github.com/pyupio/pyup/issues/332) - tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
 - [setuptools](https://github.com/pypa/setuptools/issues/1688) - Easily download, build, install, upgrade, and uninstall Python packages.
