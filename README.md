@@ -82,6 +82,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 - [Poetrify](https://github.com/kk6/poetrify) - Convert a Pipfile (or requirements.txt) to pyproject.toml for Poetry.
 - [poetry-setup](https://github.com/orsinium/poetry-setup) - Generate setup.py (setuptools) from pyproject.toml.
 - [poetry-version](https://github.com/rominf/poetry-version) - Python library for extracting version from poetry pyproject.toml file.
+- [Python License Checker](https://github.com/dhatim/python-license-check/pull/32) - Check python packages from requirement.txt/pyproject.toml and report issues.
 - [Vendy](https://github.com/di/vendy)- A tool for vendoring third-party packages into your project.
 - [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv/pull/117) - ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories.
 
@@ -105,7 +106,6 @@ These entries link directly to the project discussion.
 - [pyenv](https://github.com/pyenv/pyenv/issues/1233) - Simple Python version management.
 - [pytest](https://github.com/pytest-dev/pytest/issues/1556) - A testing framework that makes it easy to write small tests, yet scales to support complex functional testing.
 - [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark/issues/26) - A pytest fixture for benchmarking code.
-- [Python License Checker](https://github.com/dhatim/python-license-check/issues/31) - Check python packages from requirement.txt and report issues.
 - [Pylama](https://github.com/klen/pylama/issues/171) - Code audit tool for Python and JavaScript. Pylama wraps these tools: pycodestyle, pydocstyle, PyFlakes, Mccabe, Pylint, Radon, gjslint, eradicate, mypy.
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer/issues/93) - A modern Python application packaging and distribution tool.
 - [pyup](https://github.com/pyupio/pyup/issues/332) - tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
