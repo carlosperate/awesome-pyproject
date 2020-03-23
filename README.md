@@ -83,7 +83,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 - [poetry-setup](https://github.com/orsinium/poetry-setup) - Generate setup.py (setuptools) from pyproject.toml.
 - [poetry-version](https://github.com/rominf/poetry-version) - Python library for extracting version from poetry pyproject.toml file.
 - [Python License Checker](https://github.com/dhatim/python-license-check/pull/32) - Check python packages from requirement.txt/pyproject.toml and report issues.
-- [Vendy](https://github.com/di/vendy)- A tool for vendoring third-party packages into your project.
+- [Vendy](https://github.com/di/vendy) - A tool for vendoring third-party packages into your project.
 - [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv/pull/117) - ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories.
 
 
