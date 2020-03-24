@@ -26,6 +26,7 @@ Do you know of any other project not included here? Please
 - [Packaging](#packaging)
 - [Project Templates](#project-templates)
 - [Other Tools](#other-tools)
+- [Articles](#articles)
 - [Projects discussing the use of pyproject.toml](#projects-discussing-the-use-of-pyprojecttoml)
 
 
@@ -85,6 +86,11 @@ Python project templates or project generators supporting `pyproject.toml`.
 - [Python License Checker](https://github.com/dhatim/python-license-check/pull/32) - Check python packages from requirement.txt/pyproject.toml and report issues.
 - [Vendy](https://github.com/di/vendy) - A tool for vendoring third-party packages into your project.
 - [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv/pull/117) - ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories.
+
+
+## Articles
+
+- [Clarifying PEP 518 (a.k.a. pyproject.toml)](https://snarky.ca/clarifying-pep-518/)
 
 
 ## Projects discussing the use of `pyproject.toml`
