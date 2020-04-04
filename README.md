@@ -92,6 +92,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 ## Articles
 
 - [Clarifying PEP 518 (a.k.a. pyproject.toml)](https://snarky.ca/clarifying-pep-518/)
+- [What the heck is pyproject.toml?](https://snarky.ca/what-the-heck-is-pyproject-toml/)
 
 
 ## Projects discussing the use of `pyproject.toml`
