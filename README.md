@@ -114,6 +114,7 @@ These entries link directly to the project discussion.
 - [Invoke](https://github.com/pyinvoke/invoke/issues/537) - Library for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
 - [Mypy](https://github.com/python/mypy/issues/5205) - An optional static type checker for Python (PEP 484).
 - [nose2](https://github.com/nose-devs/nose2/issues/452) - The successor to nose. Its purpose is to extend unittest to make testing nicer and easier to understand.
+- [prospector](https://github.com/PyCQA/prospector/issues/376) - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
 - [pycodestyle](https://github.com/PyCQA/pycodestyle/issues/813) - A tool to check your Python code against some of the style conventions in PEP 8.
 - [pyenv](https://github.com/pyenv/pyenv/issues/1233) - Simple Python version management.
 - [pytest](https://github.com/pytest-dev/pytest/issues/1556) - A testing framework that makes it easy to write small tests, yet scales to support complex functional testing.
