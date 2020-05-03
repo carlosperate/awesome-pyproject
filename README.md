@@ -41,6 +41,7 @@ Do you know of any other project not included here? Please
 
 - [autopep8](https://github.com/hhatto/autopep8/blob/master/README.rst#pyproject-toml) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [Black](https://black.readthedocs.io/en/stable/pyproject_toml.html) - The uncompromising Python code formatter.
+- [flake8-isort](https://github.com/gforcada/flake8-isort/commit/701995ab1f401e6f64c58ce2cb58756216d2e8a2) - flake8 plugin that integrates isort.
 - [isort](https://timothycrosley.github.io/isort/) - A Python utility / library to sort imports alphabetically, and automatically separated into sections.
 
 
@@ -110,7 +111,6 @@ These entries link directly to the project discussion.
   - [bump2version](https://github.com/c4urself/bump2version/issues/42) - An interim fork with the intent to merge back to the original project.
 - [Dependency Parser](https://github.com/pyupio/dparse/issues/36) - A parser for Python dependency files.
 - [flake8](https://gitlab.com/pycqa/flake8/issues/428) - A python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
-- [flake8-isort](https://github.com/gforcada/flake8-isort/pull/78) - flake8 plugin that integrates isort.
 - [gitlint](https://github.com/jorisroovers/gitlint/issues/115) - Linting for your git commit messages.
 - [Invoke](https://github.com/pyinvoke/invoke/issues/537) - Library for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
 - [Mypy](https://github.com/python/mypy/issues/5205) - An optional static type checker for Python (PEP 484).
