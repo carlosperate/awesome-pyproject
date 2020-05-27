@@ -78,6 +78,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 - [PyScaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator with batteries included.
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [wemake-python-package](https://github.com/wemake-services/wemake-python-package) - Bleeding edge cookiecutter template to create new python packages.
+- [Python Packages Project Generator](https://github.com/TezRomacH/python-package-template) - Cookiecutter template with state-of-the-art libraries and best development practices for Python.
 
 
 ## Other Tools
