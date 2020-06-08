@@ -33,6 +33,7 @@ Do you know of any other project not included here? Please
 ## Testing
 
 - [Coverage.py](https://coverage.readthedocs.io/en/latest/config.html) - Code coverage measurement for Python.
+- [pytest](https://docs.pytest.org/en/stable/) - A testing framework that makes it easy to write small tests, yet scales to support complex functional testing.
 - [Tox](https://tox.readthedocs.io/en/3.14.2/example/basic.html#pyproject-toml-tox-legacy-ini) - A generic virtualenv manager to run test in different environments.
 - [Ward](https://wardpy.com/guide/config) - A modern Python test framework designed to help you find and fix flaws faster. 
 
@@ -120,7 +121,6 @@ These entries link directly to the project discussion.
 - [prospector](https://github.com/PyCQA/prospector/issues/376) - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
 - [pycodestyle](https://github.com/PyCQA/pycodestyle/issues/813) - A tool to check your Python code against some of the style conventions in PEP 8.
 - [pyenv](https://github.com/pyenv/pyenv/issues/1233) - Simple Python version management.
-- [pytest](https://github.com/pytest-dev/pytest/issues/1556) - A testing framework that makes it easy to write small tests, yet scales to support complex functional testing.
 - [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark/issues/26) - A pytest fixture for benchmarking code.
 - [Pylama](https://github.com/klen/pylama/issues/171) - Code audit tool for Python and JavaScript. Pylama wraps these tools: pycodestyle, pydocstyle, PyFlakes, Mccabe, Pylint, Radon, gjslint, eradicate, mypy.
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer/issues/93) - A modern Python application packaging and distribution tool.
