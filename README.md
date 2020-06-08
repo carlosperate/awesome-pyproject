@@ -33,7 +33,7 @@ Do you know of any other project not included here? Please
 ## Testing
 
 - [Coverage.py](https://coverage.readthedocs.io/en/latest/config.html) - Code coverage measurement for Python.
-- [pytest](https://docs.pytest.org/en/stable/) - A testing framework that makes it easy to write small tests, yet scales to support complex functional testing.
+- [pytest](https://docs.pytest.org/en/latest/customize.html#pyproject-toml) - A testing framework that makes it easy to write small tests, yet scales to support complex functional testing.
 - [Tox](https://tox.readthedocs.io/en/3.14.2/example/basic.html#pyproject-toml-tox-legacy-ini) - A generic virtualenv manager to run test in different environments.
 - [Ward](https://wardpy.com/guide/config) - A modern Python test framework designed to help you find and fix flaws faster. 
 
