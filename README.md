@@ -108,6 +108,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 Some project are still considering the adoption of the `pyproject.toml` file.
 These entries link directly to the project discussion.
 
+- [Alembic](https://github.com/sqlalchemy/alembic/issues/708) - A database migrations tool for SQLAlchemy. 
 - [AWS SAM](https://github.com/awslabs/aws-sam-cli/issues/1366) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM.
 - [Bandit](https://github.com/PyCQA/bandit/issues/550) - A tool designed to find common security issues in Python code.
 - [Briefcase Bootstrap Template](https://github.com/beeware/briefcase-template/pull/16) - A template for starting a Python app that will be deployed using briefcase.
