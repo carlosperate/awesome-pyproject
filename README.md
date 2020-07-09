@@ -59,7 +59,7 @@ Do you know of any other project not included here? Please
 
 ## Packaging
 
-- [BeeWare Briefcase](https://github.com/beeware/briefcase/pull/266) - Tools to support converting a Python project into a standalone native application.
+- [BeeWare Briefcase](https://briefcase.readthedocs.io/en/latest/reference/configuration.html) - Tools to support converting a Python project into a standalone native application.
 - [check-wheel-contents](https://github.com/jwodder/check-wheel-contents) - Check your wheels have the right contents.
 - [DepHell](https://dephell.readthedocs.io/config.html) - Project management for Python. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 - [Flit](https://flit.readthedocs.io/en/stable/pyproject_toml.html) - A simple way to put Python packages and modules on PyPI.
