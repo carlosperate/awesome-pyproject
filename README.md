@@ -91,8 +91,8 @@ Python project templates or project generators supporting `pyproject.toml`.
 - [Poetrify](https://github.com/kk6/poetrify) - Convert a Pipfile (or requirements.txt) to pyproject.toml for Poetry.
 - [poetry-setup](https://github.com/orsinium/poetry-setup) - Generate setup.py (setuptools) from pyproject.toml.
 - [poetry-version](https://github.com/rominf/poetry-version) - Python library for extracting version from poetry pyproject.toml file.
-- [single-version](https://github.com/hongquan/single-version) - Small utility to define version string for Poetry-style Python project.
 - [Python License Checker](https://github.com/dhatim/python-license-check/pull/32) - Check python packages from requirement.txt/pyproject.toml and report issues.
+- [single-version](https://github.com/hongquan/single-version) - Small utility to define version string for Poetry-style Python project.
 - [Tartufo](https://tartufo.readthedocs.io/en/latest/configuration.html#configuration-via-file) - Searches through git repositories and their history for high entropy strings and secrets.
 - [towncrier](https://github.com/twisted/towncrier) - A utility to produce useful, summarised news files for your project.
 - [Vendy](https://github.com/di/vendy) - A tool for vendoring third-party packages into your project.
