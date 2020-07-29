@@ -49,7 +49,8 @@ Do you know of any other project not included here? Please
 ## Code Analysis
 
 - [FlakeHell](https://flakehell.readthedocs.io/config.html) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
-- [Flake9](https://gitlab.com/retnikt/flake9) - Flake8 fork that supports reading config from `pyproject.toml` files
+- [Flake9](https://gitlab.com/retnikt/flake9) - Flake8 fork that supports reading config from `pyproject.toml` files.
+- [interrogate](https://interrogate.readthedocs.io/en/latest/#other-usage) - Interrogate a codebase for docstring coverage.
 - [Nitpick](https://nitpick.readthedocs.io/en/latest/tool_nitpick_section.html) - Flake8 plugin to enforce the same tool configuration (flake8, isort, mypy, Pylint...) across multiple Python projects.
 - [Pylint](http://pylint.pycqa.org/en/latest/user_guide/run.html?highlight=pyproject#command-line-options) - A tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells.
 - [pytest-pylint](https://github.com/carsongee/pytest-pylint/pull/107) - A pytest plugin for running pylint against your codebase.
@@ -88,7 +89,6 @@ Python project templates or project generators supporting `pyproject.toml`.
 - [Autohooks](https://github.com/greenbone/autohooks/blob/master/README.md#1-choosing-an-autohooks-mode) - Library for managing git hooks.
 - [Commitizen](https://commitizen-tools.github.io/commitizen/config/) - Create commiting rules for projects, auto bump versions and auto changelog generation.
 - [django-pyproject](https://github.com/Ceterai/django-pyproject) - Django package to store some or all of your settings in your pyproject.toml file.
-- [interrogate](https://interrogate.readthedocs.io/en/latest/#other-usage) - Interrogate a codebase for docstring coverage.
 - [Poetrify](https://github.com/kk6/poetrify) - Convert a Pipfile (or requirements.txt) to pyproject.toml for Poetry.
 - [poetry-setup](https://github.com/orsinium/poetry-setup) - Generate setup.py (setuptools) from pyproject.toml.
 - [poetry-version](https://github.com/rominf/poetry-version) - Python library for extracting version from poetry pyproject.toml file.
