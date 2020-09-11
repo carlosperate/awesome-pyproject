@@ -113,6 +113,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 PEPs still under consideration related to pyproject.toml.
 
 - [PEP 621 -- Storing project metadata in pyproject.toml](https://www.python.org/dev/peps/pep-0621/)
+- [PEP 631 -- Dependency specification in pyproject.toml based on PEP 508](https://www.python.org/dev/peps/pep-0631/)
 
 
 ## Projects discussing the use of `pyproject.toml`
