@@ -65,11 +65,11 @@ Do you know of any other project not included here? Please
 - [DepHell](https://dephell.readthedocs.io/config.html) - Project management for Python. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 - [Flit](https://flit.readthedocs.io/en/stable/pyproject_toml.html) - A simple way to put Python packages and modules on PyPI.
 - [Maturin](https://github.com/PyO3/maturin/blob/master/Readme.md#pyprojecttoml) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages.
+- [PDM](https://github.com/frostming/pdm) - A modern Python package manager with PEP 582 support.
 - [pip](https://pip.pypa.io/en/stable/reference/pip/#pep-517-and-518-support) - The package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
 - [Poetry](https://python-poetry.org/docs/pyproject/) - A tool for dependency management and packaging in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 - [Pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python.
 - [setuptools_scm](https://github.com/pypa/setuptools_scm) - Handles managing your Python package versions in SCM metadata instead of declaring them as the version argument or in a SCM managed file.
-- [PDM](https://github.com/frostming/pdm) - A modern Python package manager with PEP 582 support.
 
 
 ## Project Templates
