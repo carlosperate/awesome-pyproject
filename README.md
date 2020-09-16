@@ -69,6 +69,7 @@ Do you know of any other project not included here? Please
 - [Poetry](https://python-poetry.org/docs/pyproject/) - A tool for dependency management and packaging in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 - [Pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python.
 - [setuptools_scm](https://github.com/pypa/setuptools_scm) - Handles managing your Python package versions in SCM metadata instead of declaring them as the version argument or in a SCM managed file.
+- [PDM](https://github.com/frostming/pdm) - A modern Python package manager with PEP 582 support.
 
 
 ## Project Templates
