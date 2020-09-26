@@ -114,6 +114,7 @@ PEPs still under consideration related to pyproject.toml.
 
 - [PEP 621 -- Storing project metadata in pyproject.toml](https://www.python.org/dev/peps/pep-0621/)
 - [PEP 631 -- Dependency specification in pyproject.toml based on PEP 508](https://www.python.org/dev/peps/pep-0631/)
+- [PEP 633 -- Dependency specification in pyproject.toml using an exploded TOML table](https://www.python.org/dev/peps/pep-0633/)
 
 
 ## Projects discussing the use of `pyproject.toml`
