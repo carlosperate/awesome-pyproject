@@ -27,6 +27,7 @@ Do you know of any other project not included here? Please
 - [Project Templates](#project-templates)
 - [Other Tools](#other-tools)
 - [Articles](#articles)
+- [Open PEPs](#open-peps)
 - [Projects discussing the use of pyproject.toml](#projects-discussing-the-use-of-pyprojecttoml)
 
 
@@ -106,6 +107,15 @@ Python project templates or project generators supporting `pyproject.toml`.
 
 - [Clarifying PEP 518 (a.k.a. pyproject.toml)](https://snarky.ca/clarifying-pep-518/)
 - [What the heck is pyproject.toml?](https://snarky.ca/what-the-heck-is-pyproject-toml/)
+
+
+## Open PEPs
+
+PEPs still under consideration related to pyproject.toml.
+
+- [PEP 621 -- Storing project metadata in pyproject.toml](https://www.python.org/dev/peps/pep-0621/)
+- [PEP 631 -- Dependency specification in pyproject.toml based on PEP 508](https://www.python.org/dev/peps/pep-0631/)
+- [PEP 633 -- Dependency specification in pyproject.toml using an exploded TOML table](https://www.python.org/dev/peps/pep-0633/)
 
 
 ## Projects discussing the use of `pyproject.toml`
