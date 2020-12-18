@@ -56,6 +56,7 @@ Do you know of any other project not included here? Please
 - [Pylint](http://pylint.pycqa.org/en/latest/user_guide/run.html?highlight=pyproject#command-line-options) - A tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells.
 - [pytest-pylint](https://github.com/carsongee/pytest-pylint/pull/107) - A pytest plugin for running pylint against your codebase.
 - [Unimport](https://github.com/hakancelik96/unimport/blob/master/README.md#configuring-unimport) - Detects unused python libraries.
+- [Vulture](https://github.com/jendrikseipp/vulture/blob/master/README.md#configuration) - Finds unused code in Python programs.
 - [wemake-python-styleguide](https://wemake-python-stylegui.de/en/latest/pages/usage/integrations/flakehell.html) - The strictest and most opinionated python linter ever!
 
 
@@ -145,7 +146,6 @@ These entries link directly to the project discussion.
 - [readthedocs.org](https://github.com/readthedocs/readthedocs.org/issues/7065) - Read the Docs hosts documentation for the open source community.
 - [setuptools](https://github.com/pypa/setuptools/issues/1688) - Easily download, build, install, upgrade, and uninstall Python packages.
 - [Spack](https://github.com/spack/spack/issues/6629) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
-- [Vulture](https://github.com/jendrikseipp/vulture/issues/164) - Finds unused code in Python programs.
 - [YAPF](https://github.com/google/yapf/issues/708) - A formatter for Python files.
 
 
