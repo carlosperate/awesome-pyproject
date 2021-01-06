@@ -80,6 +80,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 
 - [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Cookiecutter template for a Python python library.
 - [Jace's Python Template](https://github.com/jacebrowning/template-python) - A template for new Python libraries.
+- [Python-In-A-Box](https://github.com/Shared-Vision-Solutions/python-in-a-box) - A containerized Python development environment (with opinionated, but flexible tooling)
 - [PyPA Sample Project](https://github.com/pypa/sampleproject) - A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects".
 - [PyScaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator with batteries included.
 - [Python Packages Project Generator](https://github.com/TezRomacH/python-package-template) - Cookiecutter template with state-of-the-art libraries and best development practices for Python.
