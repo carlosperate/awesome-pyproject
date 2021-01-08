@@ -66,7 +66,6 @@ Do you know of any other project not included here? Please
 - [check-wheel-contents](https://github.com/jwodder/check-wheel-contents) - Check your wheels have the right contents.
 - [DepHell](https://dephell.readthedocs.io/config.html) - Project management for Python. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 - [Flit](https://flit.readthedocs.io/en/stable/pyproject_toml.html) - A simple way to put Python packages and modules on PyPI.
-- [Hypermodern Cookiecutter](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - cookiecutter template for a Python package based on the [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) article series.
 - [Maturin](https://github.com/PyO3/maturin/blob/master/Readme.md#pyprojecttoml) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages.
 - [PDM](https://pdm.fming.dev/pyproject/) - A modern Python package manager with PEP 582 support.
 - [pip](https://pip.pypa.io/en/stable/reference/pip/#pep-517-and-518-support) - The package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
@@ -80,6 +79,7 @@ Do you know of any other project not included here? Please
 Python project templates or project generators supporting `pyproject.toml`.
 
 - [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Cookiecutter template for a Python python library.
+- [Hypermodern Cookiecutter](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Cookiecutter template for a Python package based on the [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) article series.
 - [Jace's Python Template](https://github.com/jacebrowning/template-python) - A template for new Python libraries.
 - [PyPA Sample Project](https://github.com/pypa/sampleproject) - A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects".
 - [PyScaffold](https://github.com/pyscaffold/pyscaffold) - Python project template generator with batteries included.
