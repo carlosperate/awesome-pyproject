@@ -3,12 +3,14 @@
 ![logo](https://repository-images.githubusercontent.com/226840558/aff71800-2fd4-11ea-99ed-8e6a645dd5fe)
 
 `pyproject.toml` is a new configuration file defined in
-[PEP 518](https://www.python.org/dev/peps/pep-0518/). It is design to store
+[PEP 518](https://www.python.org/dev/peps/pep-0518/) and expanded in
+[PEP 621](https://www.python.org/dev/peps/pep-0621/). It is design to store
 build system requirements, but it can also store any tool configuration for your
 Python project, possibly replacing the need for `setup.cfg` or other
 tool-specific files.
 
-- [PEP 518 file specification](https://www.python.org/dev/peps/pep-0518/#specification).
+- [PEP 518 -- File specification](https://www.python.org/dev/peps/pep-0518/#specification).
+- [PEP 621 -- Storing project metadata in pyproject.toml](https://www.python.org/dev/peps/pep-0621/)
 
 We think `pyproject.toml` is pretty awesome, so this
 [awesome list](https://github.com/topics/awesome-list) contains projects already
@@ -116,8 +118,10 @@ Python project templates or project generators supporting `pyproject.toml`.
 
 Python Enhancement Proposals (PEPs) still under consideration related to pyproject.toml.
 
-- [PEP 621 -- Storing project metadata in pyproject.toml](https://www.python.org/dev/peps/pep-0621/)
 - [PEP 631 -- Dependency specification in pyproject.toml based on PEP 508](https://www.python.org/dev/peps/pep-0631/)
+
+### Rejected
+
 - [PEP 633 -- Dependency specification in pyproject.toml using an exploded TOML table](https://www.python.org/dev/peps/pep-0633/)
 
 
