@@ -10,7 +10,7 @@ Python project, possibly replacing the need for `setup.cfg` or other
 tool-specific files.
 
 - [PEP 518 -- File specification](https://www.python.org/dev/peps/pep-0518/#specification).
-- [PEP 621 -- Storing project metadata in pyproject.toml](https://www.python.org/dev/peps/pep-0621/)
+- [PEP 621 -- Storing project metadata in pyproject.toml](https://www.python.org/dev/peps/pep-0621/#specification)
 
 We think `pyproject.toml` is pretty awesome, so this
 [awesome list](https://github.com/topics/awesome-list) contains projects already
