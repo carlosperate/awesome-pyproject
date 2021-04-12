@@ -38,7 +38,7 @@ Do you know of any other project not included here? Please
 - [Coverage.py](https://coverage.readthedocs.io/en/latest/config.html) - Code coverage measurement for Python.
 - [pytest](https://docs.pytest.org/en/latest/reference/customize.html#pyproject-toml) - A testing framework that makes it easy to write small tests, yet scales to support complex functional testing.
 - [Tox](https://tox.readthedocs.io/en/3.14.2/example/basic.html#pyproject-toml-tox-legacy-ini) - A generic virtualenv manager to run test in different environments.
-- [Ward](https://wardpy.com/guide/config) - A modern Python test framework designed to help you find and fix flaws faster. 
+- [Ward](https://wardpy.com/guide/config) - A modern Python test framework designed to help you find and fix flaws faster.
 
 
 ## Code Formatting
@@ -102,6 +102,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 - [poetry-setup](https://github.com/orsinium/poetry-setup) - Generate setup.py (setuptools) from pyproject.toml.
 - [poetry-version](https://github.com/rominf/poetry-version) - Python library for extracting version from poetry pyproject.toml file.
 - [Python License Checker](https://github.com/dhatim/python-license-check/pull/32) - Check python packages from requirement.txt/pyproject.toml and report issues.
+- [single-version](https://github.com/hongquan/single-version) - Small utility to define version string for Poetry-style Python project.
 - [Tartufo](https://tartufo.readthedocs.io/en/latest/configuration.html#configuration-via-file) - Searches through git repositories and their history for high entropy strings and secrets.
 - [towncrier](https://github.com/twisted/towncrier) - A utility to produce useful, summarised news files for your project.
 - [Vendy](https://github.com/di/vendy) - A tool for vendoring third-party packages into your project.
@@ -131,7 +132,7 @@ Python Enhancement Proposals (PEPs) still under consideration related to pyproje
 Some project are still considering the adoption of the `pyproject.toml` file.
 These entries link directly to the project discussion.
 
-- [Alembic](https://github.com/sqlalchemy/alembic/issues/708) - A database migrations tool for SQLAlchemy. 
+- [Alembic](https://github.com/sqlalchemy/alembic/issues/708) - A database migrations tool for SQLAlchemy.
 - [AWS SAM](https://github.com/awslabs/aws-sam-cli/issues/1366) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM.
 - [Bandit](https://github.com/PyCQA/bandit/issues/550) - A tool designed to find common security issues in Python code.
 - [Briefcase Bootstrap Template](https://github.com/beeware/briefcase-template/pull/16) - A template for starting a Python app that will be deployed using briefcase.
