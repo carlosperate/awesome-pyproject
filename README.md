@@ -38,7 +38,7 @@ Do you know of any other project not included here? Please
 - [Coverage.py](https://coverage.readthedocs.io/en/latest/config.html) - Code coverage measurement for Python.
 - [pytest](https://docs.pytest.org/en/latest/reference/customize.html#pyproject-toml) - A testing framework that makes it easy to write small tests, yet scales to support complex functional testing.
 - [Tox](https://tox.readthedocs.io/en/3.14.2/example/basic.html#pyproject-toml-tox-legacy-ini) - A generic virtualenv manager to run test in different environments.
-- [Ward](https://wardpy.com/guide/config) - A modern Python test framework designed to help you find and fix flaws faster. 
+- [Ward](https://wardpy.com/guide/config) - A modern Python test framework designed to help you find and fix flaws faster.
 
 
 ## Code Formatting
@@ -131,14 +131,14 @@ Python Enhancement Proposals (PEPs) still under consideration related to pyproje
 Some project are still considering the adoption of the `pyproject.toml` file.
 These entries link directly to the project discussion.
 
-- [Alembic](https://github.com/sqlalchemy/alembic/issues/708) - A database migrations tool for SQLAlchemy. 
+- [Alembic](https://github.com/sqlalchemy/alembic/issues/708) - A database migrations tool for SQLAlchemy.
 - [AWS SAM](https://github.com/awslabs/aws-sam-cli/issues/1366) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM.
 - [Bandit](https://github.com/PyCQA/bandit/issues/550) - A tool designed to find common security issues in Python code.
 - [Briefcase Bootstrap Template](https://github.com/beeware/briefcase-template/pull/16) - A template for starting a Python app that will be deployed using briefcase.
 - [bumpversion](https://github.com/peritus/bumpversion/issues/192) - Version-bump your software with a single command.
   - [bump2version](https://github.com/c4urself/bump2version/issues/42) - An interim fork with the intent to merge back to the original project.
 - [Dependency Parser](https://github.com/pyupio/dparse/issues/36) - A parser for Python dependency files.
-- [flake8](https://gitlab.com/pycqa/flake8/issues/428) - A python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
+- [flake8](https://github.com/PyCQA/flake8/issues/234) - A python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [gitlint](https://github.com/jorisroovers/gitlint/issues/115) - Linting for your git commit messages.
 - [Invoke](https://github.com/pyinvoke/invoke/issues/537) - Library for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
 - [Mypy](https://github.com/python/mypy/issues/5205) - An optional static type checker for Python (PEP 484).
