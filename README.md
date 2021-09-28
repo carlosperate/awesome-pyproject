@@ -51,6 +51,7 @@ Do you know of any other project not included here? Please
 
 ## Code Analysis
 
+- [Bandit](https://bandit.readthedocs.io/en/latest/config.html) - A tool designed to find common security issues in Python code.
 - [FlakeHell](https://flakehell.readthedocs.io/config.html) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
 - [Flake9](https://gitlab.com/retnikt/flake9) - Flake8 fork that supports reading config from `pyproject.toml` files.
 - [interrogate](https://interrogate.readthedocs.io/en/latest/#other-usage) - Interrogate a codebase for docstring coverage.
@@ -135,7 +136,6 @@ These entries link directly to the project discussion.
 
 - [Alembic](https://github.com/sqlalchemy/alembic/issues/708) - A database migrations tool for SQLAlchemy.
 - [AWS SAM](https://github.com/awslabs/aws-sam-cli/issues/1366) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM.
-- [Bandit](https://github.com/PyCQA/bandit/issues/550) - A tool designed to find common security issues in Python code.
 - [Briefcase Bootstrap Template](https://github.com/beeware/briefcase-template/pull/16) - A template for starting a Python app that will be deployed using briefcase.
 - [bumpversion](https://github.com/peritus/bumpversion/issues/192) - Version-bump your software with a single command.
   - [bump2version](https://github.com/c4urself/bump2version/issues/42) - An interim fork with the intent to merge back to the original project.
