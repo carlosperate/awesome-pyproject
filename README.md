@@ -47,6 +47,7 @@ Do you know of any other project not included here? Please
 - [Black](https://black.readthedocs.io/en/stable/usage_and_configuration/the_basics.html#configuration-via-a-file) - The uncompromising Python code formatter.
 - [flake8-isort](https://github.com/gforcada/flake8-isort/commit/701995ab1f401e6f64c58ce2cb58756216d2e8a2) - flake8 plugin that integrates isort.
 - [isort](https://pycqa.github.io/isort/docs/configuration/options) - A Python utility / library to sort imports alphabetically, and automatically separated into sections.
+- [YAPF](https://github.com/google/yapf#excluding-files-from-formatting-yapfignore-or-pyprojecttoml) - A formatter for Python files.
 
 
 ## Code Analysis
@@ -154,7 +155,6 @@ These entries link directly to the project discussion.
 - [readthedocs.org](https://github.com/readthedocs/readthedocs.org/issues/7065) - Read the Docs hosts documentation for the open source community.
 - [setuptools](https://github.com/pypa/setuptools/issues/1688) - Easily download, build, install, upgrade, and uninstall Python packages.
 - [Spack](https://github.com/spack/spack/issues/6629) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
-- [YAPF](https://github.com/google/yapf/issues/708) - A formatter for Python files.
 
 
 ## License
