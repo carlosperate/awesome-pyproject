@@ -56,6 +56,7 @@ Do you know of any other project not included here? Please
 - [Bandit](https://bandit.readthedocs.io/en/latest/config.html) - A tool designed to find common security issues in Python code.
 - [FlakeHell](https://flakehell.readthedocs.io/config.html) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
 - [Flake9](https://gitlab.com/retnikt/flake9) - Flake8 fork that supports reading config from `pyproject.toml` files.
+- [import-linter](https://import-linter.readthedocs.io/en/stable) - Import Linter defines and enforces rules for the imports within and between Python packages.
 - [interrogate](https://interrogate.readthedocs.io/en/latest/#other-usage) - Interrogate a codebase for docstring coverage.
 - [Mypy](https://mypy.readthedocs.io/en/latest/config_file.html#using-a-pyproject-toml-file) - An optional static type checker for Python (PEP 484).
 - [Nitpick](https://nitpick.readthedocs.io/en/latest/configuration.html) - Flake8 plugin to enforce the same tool configuration (flake8, isort, mypy, Pylint...) across multiple Python projects.
