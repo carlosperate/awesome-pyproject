@@ -148,6 +148,7 @@ These entries link directly to the project discussion.
 - [flake8](https://github.com/PyCQA/flake8/issues/234) - A python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [gitlint](https://github.com/jorisroovers/gitlint/issues/115) - Linting for your git commit messages.
 - [Invoke](https://github.com/pyinvoke/invoke/issues/537) - Library for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
+- [mach-nix](https://github.com/DavHau/mach-nix/issues/14) - Create highly reproducible python environments.
 - [nose2](https://github.com/nose-devs/nose2/issues/452) - The successor to nose. Its purpose is to extend unittest to make testing nicer and easier to understand.
 - [prospector](https://github.com/PyCQA/prospector/issues/376) - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
 - [pycodestyle](https://github.com/PyCQA/pycodestyle/issues/813) - A tool to check your Python code against some of the style conventions in PEP 8.
