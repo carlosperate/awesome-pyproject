@@ -3,8 +3,9 @@
 ![logo](https://repository-images.githubusercontent.com/226840558/aff71800-2fd4-11ea-99ed-8e6a645dd5fe)
 
 `pyproject.toml` is a new configuration file defined in
-[PEP 518](https://www.python.org/dev/peps/pep-0518/) and expanded in
-[PEP 621](https://www.python.org/dev/peps/pep-0621/). It is design to store
+[PEP 518](https://www.python.org/dev/peps/pep-0518/), expanded in
+[PEP 621](https://www.python.org/dev/peps/pep-0621/) and 
+[PEP 660](https://www.python.org/dev/peps/pep-660/). It is design to store
 build system requirements, but it can also store any tool configuration for your
 Python project, possibly replacing the need for `setup.cfg` or other
 tool-specific files.
