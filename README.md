@@ -11,6 +11,7 @@ tool-specific files.
 
 - [PEP 518 -- File specification](https://www.python.org/dev/peps/pep-0518/#specification).
 - [PEP 621 -- Storing project metadata in pyproject.toml](https://www.python.org/dev/peps/pep-0621/#specification)
+- [PEP 660 -- Editable installs for pyproject.toml based builds (wheel based)](https://peps.python.org/pep-0660/)
 
 We think `pyproject.toml` is pretty awesome, so this
 [awesome list](https://github.com/topics/awesome-list) contains projects already
@@ -126,12 +127,13 @@ Python project templates or project generators supporting `pyproject.toml`.
 
 Python Enhancement Proposals (PEPs) still under consideration related to pyproject.toml.
 
-- [PEP 650 – Specifying Installer Requirements for Python Projects](https://www.python.org/dev/peps/pep-0650/)
+- None at the moment
 
-### Rejected/Superseded
+### Rejected/Withdrawn/Superseded
 
 - [PEP 631 – Dependency specification in pyproject.toml based on PEP 508](https://www.python.org/dev/peps/pep-0631/)
 - [PEP 633 – Dependency specification in pyproject.toml using an exploded TOML table](https://www.python.org/dev/peps/pep-0633/)
+- [PEP 650 – Specifying Installer Requirements for Python Projects](https://www.python.org/dev/peps/pep-0650/)
 - [PEP 665 – A file format to list Python dependencies for reproducibility of an application](https://peps.python.org/pep-0665/)
 
 
