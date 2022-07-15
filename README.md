@@ -83,6 +83,7 @@ Do you know of any other project not included here? Please
 - [pip](https://pip.pypa.io/en/stable/reference/pip/#pep-517-and-518-support) - The package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
 - [Poetry](https://python-poetry.org/docs/pyproject/) - A tool for dependency management and packaging in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 - [Pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python.
+- [setuptools](https://github.com/pypa/setuptools) - Easily download, build, install, upgrade, and uninstall Python packages.
 - [setuptools_scm](https://github.com/pypa/setuptools_scm) - Handles managing your Python package versions in SCM metadata instead of declaring them as the version argument or in a SCM managed file.
 
 
@@ -165,7 +166,6 @@ These entries link directly to the project discussion.
 - [pyup](https://github.com/pyupio/pyup/issues/332) - tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
 - [Radon](https://github.com/rubik/radon/issues/220) - A Python tool that computes various metrics from the source code.
 - [readthedocs.org](https://github.com/readthedocs/readthedocs.org/issues/7065) - Read the Docs hosts documentation for the open source community.
-- [setuptools](https://github.com/pypa/setuptools/issues/1688) - Easily download, build, install, upgrade, and uninstall Python packages.
 - [Spack](https://github.com/spack/spack/issues/6629) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
 
