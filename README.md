@@ -69,7 +69,7 @@ Do you know of any other project not included here? Please
 - [Robocop](https://robocop.readthedocs.io/en/stable/user_guide.html#loading-configuration-from-file) - Tool for static code analysis of Robot Framework language.
 - [Unimport](https://github.com/hakancelik96/unimport/blob/master/README.md#configuring-unimport) - Detects unused python libraries.
 - [Vulture](https://github.com/jendrikseipp/vulture/blob/master/README.md#configuration) - Finds unused code in Python programs.
-- [wemake-python-styleguide](https://wemake-python-stylegui.de/en/latest/pages/usage/integrations/flakehell.html) - The strictest and most opinionated python linter ever!
+- [wemake-python-styleguide](https://wemake-python-styleguide.readthedocs.io/en/latest/pages/usage/integrations/flakehell.html) - The strictest and most opinionated python linter ever!
 
 
 ## Packaging
