@@ -67,6 +67,7 @@ Do you know of any other project not included here? Please
 - [Pylint](http://pylint.pycqa.org/en/latest/user_guide/run.html?highlight=pyproject#command-line-options) - A tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells.
 - [Pyright](https://github.com/microsoft/pyright/blob/1.1.200/docs/configuration.md#sample-pyprojecttoml-file) - Static type checker for Python.
 - [pytest-pylint](https://github.com/carsongee/pytest-pylint/pull/107) - A pytest plugin for running pylint against your codebase.
+- [Refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases.
 - [Robocop](https://robocop.readthedocs.io/en/stable/user_guide.html#loading-configuration-from-file) - Tool for static code analysis of Robot Framework language.
 - [Unimport](https://github.com/hakancelik96/unimport/blob/master/README.md#configuring-unimport) - Detects unused python libraries.
 - [Vulture](https://github.com/jendrikseipp/vulture/blob/master/README.md#configuration) - Finds unused code in Python programs.
