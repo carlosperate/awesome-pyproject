@@ -57,6 +57,7 @@ Do you know of any other project not included here? Please
 ## Code Analysis
 
 - [Bandit](https://bandit.readthedocs.io/en/latest/config.html) - A tool designed to find common security issues in Python code.
+- [deptry](https://github.com/fpgmaas/deptry) - A command line tool to check for issues with dependencies in a Python project, such as obsolete or missing dependencies.
 - [FlakeHell](https://flakehell.readthedocs.io/config.html) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
 - [Flake9](https://gitlab.com/retnikt/flake9) - Flake8 fork that supports reading config from `pyproject.toml` files.
 - [import-linter](https://import-linter.readthedocs.io/en/stable/usage.html) - Import Linter defines and enforces rules for the imports within and between Python packages.
