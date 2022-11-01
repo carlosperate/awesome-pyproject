@@ -94,6 +94,7 @@ Do you know of any other project not included here? Please
 
 Python project templates or project generators supporting `pyproject.toml`.
 
+- [cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry) - A modern cookiecutter template for Python projects that use Poetry for their dependency management.
 - [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Cookiecutter template for a Python python library.
 - [Hypermodern Cookiecutter](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Cookiecutter template for a Python package based on the [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) article series.
 - [Jace's Python Template](https://github.com/jacebrowning/template-python) - A template for new Python libraries.
