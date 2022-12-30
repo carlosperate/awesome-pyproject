@@ -60,7 +60,7 @@ Do you know of any other project not included here? Please
 - [Bandit](https://bandit.readthedocs.io/en/latest/config.html) - A tool designed to find common security issues in Python code.
 - [deptry](https://github.com/fpgmaas/deptry) - A command line tool to check for issues with dependencies in a Python project, such as obsolete or missing dependencies.
 - [FlakeHell](https://flakehell.readthedocs.io/config.html) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
-- [Flake9](https://gitlab.com/retnikt/flake9) - Flake8 fork that supports reading config from `pyproject.toml` files.
+- [flake8-pyproject](https://pypi.org/project/Flake8-pyproject/) - Plugin for Flake8 that reads configuration from pyproject.toml and injects the config into Flake8
 - [import-linter](https://import-linter.readthedocs.io/en/stable/usage.html) - Import Linter defines and enforces rules for the imports within and between Python packages.
 - [interrogate](https://interrogate.readthedocs.io/en/latest/#other-usage) - Interrogate a codebase for docstring coverage.
 - [Mypy](https://mypy.readthedocs.io/en/latest/config_file.html#using-a-pyproject-toml-file) - An optional static type checker for Python (PEP 484).
