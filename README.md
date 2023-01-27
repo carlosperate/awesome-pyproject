@@ -27,7 +27,7 @@ Do you know of any other project not included here? Please
 - [Testing](#testing)
 - [Code Formatting](#code-formatting)
 - [Code Analysis](#code-analysis)
-- [Packaging](#packaging)
+- [Packaging & Project Management](#packaging--project-management)
 - [Project Templates](#project-templates)
 - [Other Tools](#other-tools)
 - [Articles](#articles)
@@ -76,12 +76,13 @@ Do you know of any other project not included here? Please
 - [wemake-python-styleguide](https://wemake-python-styleguide.readthedocs.io/en/latest/pages/usage/integrations/flakeheaven.html) - The strictest and most opinionated python linter ever!
 
 
-## Packaging
+## Packaging & Project Management
 
 - [BeeWare Briefcase](https://briefcase.readthedocs.io/en/latest/reference/configuration.html) - Tools to support converting a Python project into a standalone native application.
 - [check-wheel-contents](https://github.com/jwodder/check-wheel-contents) - Check your wheels have the right contents.
 - [DepHell](https://dephell.readthedocs.io/config.html) - Project management for Python. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 - [Flit](https://flit.readthedocs.io/en/stable/pyproject_toml.html) - A simple way to put Python packages and modules on PyPI.
+- [Hatch](https://hatch.pypa.io/latest/config/metadata/) - Modern, extensible Python project manager.
 - [Maturin](https://github.com/PyO3/maturin/blob/main/README.md#python-metadata) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages.
 - [PDM](https://pdm.fming.dev/latest/pyproject/pep621/) - A modern Python package manager with PEP 582 support.
 - [pip](https://pip.pypa.io/en/stable/reference/pip/#pep-517-and-518-support) - The package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
