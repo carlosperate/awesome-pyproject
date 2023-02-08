@@ -52,6 +52,7 @@ Do you know of any other project not included here? Please
 - [Darker](https://github.com/akaihola/darker#customizing-darker-black-and-isort-behavior) - Apply black reformatting to Python files only in regions changed since a given commit.
 - [flake8-isort](https://github.com/gforcada/flake8-isort/commit/701995ab1f401e6f64c58ce2cb58756216d2e8a2) - flake8 plugin that integrates isort.
 - [isort](https://pycqa.github.io/isort/docs/configuration/options) - A Python utility / library to sort imports alphabetically, and automatically separated into sections.
+- [pyproject-fmt](https://pyproject-fmt.readthedocs.io) - Apply a consistent format to your pyproject.toml file with comment support.
 - [YAPF](https://github.com/google/yapf#excluding-files-from-formatting-yapfignore-or-pyprojecttoml) - A formatter for Python files.
 
 
