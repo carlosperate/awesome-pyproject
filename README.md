@@ -72,6 +72,7 @@ Do you know of any other project not included here? Please
 - [pytest-pylint](https://github.com/carsongee/pytest-pylint/pull/107) - A pytest plugin for running pylint against your codebase.
 - [Refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases.
 - [Robocop](https://robocop.readthedocs.io/en/stable/user_guide.html#loading-configuration-from-file) - Tool for static code analysis of Robot Framework language.
+- [Ruff](https://beta.ruff.rs/docs/configuration/#pyprojecttoml-discovery) - An extremely fast Python linter, written in Rust.
 - [Unimport](https://github.com/hakancelik96/unimport/blob/master/README.md#configuring-unimport) - Detects unused python libraries.
 - [validate-pyproject](https://validate-pyproject.readthedocs.io) - A command line tool and Python library for validating pyproject.toml files based on JSON Schema, and includes checks for PEP 517, PEP 518 and PEP 621.
 - [Vulture](https://github.com/jendrikseipp/vulture/blob/master/README.md#configuration) - Finds unused code in Python programs.
