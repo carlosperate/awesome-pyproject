@@ -177,6 +177,7 @@ These entries link directly to the project discussion.
 - [Radon](https://github.com/rubik/radon/issues/220) - A Python tool that computes various metrics from the source code.
 - [readthedocs.org](https://github.com/readthedocs/readthedocs.org/issues/7065) - Read the Docs hosts documentation for the open source community.
 - [Spack](https://github.com/spack/spack/issues/6629) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [zest.releaser](https://github.com/zestsoftware/zest.releaser/issues/295) - Python software releasing made easy and repeatable.
 
 
 ## License
