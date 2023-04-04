@@ -95,6 +95,7 @@ Do you know of any other project not included here? Please
 - [Pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python.
 - [setuptools](hhttps://setuptools.pypa.io/en/latest/userguide/pyproject_config.html) - Easily download, build, install, upgrade, and uninstall Python packages.
 - [setuptools_scm](https://github.com/pypa/setuptools_scm) - Handles managing your Python package versions in SCM metadata instead of declaring them as the version argument or in a SCM managed file.
+- [whey](https://whey.readthedocs.io/en/latest/) - A simple Python wheel builder for simple projects using PEP 621 metadata.
 
 
 ## Project Templates
