@@ -48,6 +48,7 @@ Do you know of any other project not included here? Please
 ## Code Formatting
 
 - [autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes.
+- [autoimport](https://lyz-code.github.io/autoimport/) - Automatically add missing imports and remove unused imports.
 - [autopep8](https://github.com/hhatto/autopep8/blob/master/README.rst#pyproject-toml) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [Black](https://black.readthedocs.io/en/stable/usage_and_configuration/the_basics.html#configuration-via-a-file) - The uncompromising Python code formatter.
 - [Blue](https://blue.readthedocs.io/en/latest/) - The slightly less uncompromising Python code formatter.
