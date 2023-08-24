@@ -87,6 +87,7 @@ Do you know of any other project not included here? Please
 - [BeeWare Briefcase](https://briefcase.readthedocs.io/en/latest/reference/configuration.html) - Tools to support converting a Python project into a standalone native application.
 - [check-wheel-contents](https://github.com/jwodder/check-wheel-contents) - Check your wheels have the right contents.
 - [DepHell](https://dephell.readthedocs.io/config.html) - Project management for Python. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
+- [FawltyDeps](https://github.com/tweag/FawltyDeps) - Find undeclared and unused dependencies in your Python project. Verify that your declared dependencies (in `pyproject.toml` or elsewhere) match what you actually `import` in your code.
 - [Flit](https://flit.readthedocs.io/en/stable/pyproject_toml.html) - A simple way to put Python packages and modules on PyPI.
 - [Hatch](https://hatch.pypa.io/latest/config/metadata/) - Modern, extensible Python project manager.
 - [Maturin](https://github.com/PyO3/maturin/blob/main/README.md#python-metadata) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages.
