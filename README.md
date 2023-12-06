@@ -145,7 +145,8 @@ Python project templates or project generators supporting `pyproject.toml`.
 
 Python Enhancement Proposals (PEPs) still under consideration related to pyproject.toml.
 
-- None at the moment
+- [PEP 725 – Specifying external dependencies in pyproject.toml](https://peps.python.org/pep-0725/)
+- [PEP 735 – Dependency Groups in pyproject.toml](https://peps.python.org/pep-0735/)
 
 ### Rejected/Withdrawn/Superseded
 
