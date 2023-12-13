@@ -121,7 +121,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 
 - [Autohooks](https://github.com/greenbone/autohooks/blob/master/README.md#1-choosing-an-autohooks-mode) - Library for managing git hooks.
 - [Commitizen](https://commitizen-tools.github.io/commitizen/config/) - Create commiting rules for projects, auto bump versions and auto changelog generation.
-- [datamodel-code-genrator](https://koxudaxi.github.io/datamodel-code-generator/pyproject_toml/) - Creates Pydantic data-model code from OpenAPI/JSON Schema files.
+- [datamodel-code-generator](https://koxudaxi.github.io/datamodel-code-generator/pyproject_toml/) - Creates Pydantic data-model code from OpenAPI/JSON Schema files.
 - [django-pyproject](https://github.com/Ceterai/django-pyproject) - Django package to store some or all of your settings in your pyproject.toml file.
 - [ini2toml](https://ini2toml.readthedocs.io/en/latest/setuptools_pep621.html) - Automatically translates .ini/.cfg files into TOML.
 - [Poe the Poet](https://github.com/nat-n/poethepoet#define-tasks-in-your-pyprojecttoml) - A task runner that works well with Poetry.
