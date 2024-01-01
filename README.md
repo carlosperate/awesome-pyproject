@@ -94,6 +94,7 @@ Do you know of any other project not included here? Please
 - [Maturin](https://github.com/PyO3/maturin/blob/main/README.md#python-metadata) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages.
 - [PDM](https://pdm.fming.dev/latest/pyproject/pep621/) - A modern Python package manager with PEP 582 support.
 - [pip](https://pip.pypa.io/en/stable/reference/pip/#pep-517-and-518-support) - The package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
+- [ppsetuptools](https://github.com/TheCleric/ppsetuptools) - A drop-in replacement for python setuptools that uses pyproject.toml files
 - [Poetry](https://python-poetry.org/docs/pyproject/) - A tool for dependency management and packaging in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 - [Pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python.
 - [setuptools](hhttps://setuptools.pypa.io/en/latest/userguide/pyproject_config.html) - Easily download, build, install, upgrade, and uninstall Python packages.
