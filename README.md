@@ -4,7 +4,7 @@
 
 `pyproject.toml` is a new configuration file defined in
 [PEP 518](https://www.python.org/dev/peps/pep-0518/), expanded in
-[PEP 621](https://www.python.org/dev/peps/pep-0621/) and 
+[PEP 621](https://www.python.org/dev/peps/pep-0621/) and
 [PEP 660](https://www.python.org/dev/peps/pep-660/). It is design to store
 build system requirements, but it can also store any tool configuration for your
 Python project, possibly replacing the need for `setup.cfg` or other
@@ -138,6 +138,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 ## Articles
 
 - [Clarifying PEP 518 (a.k.a. pyproject.toml)](https://snarky.ca/clarifying-pep-518/)
+- [pyproject.toml Reference - Python Developer Tooling Handbook](https://pydevtools.com/handbook/reference/pyproject.toml/) - A reference guide to pyproject.toml covering its role in Python packaging, key sections, and how tools use it.
 - [What the heck is pyproject.toml?](https://snarky.ca/what-the-heck-is-pyproject-toml/)
 
 
